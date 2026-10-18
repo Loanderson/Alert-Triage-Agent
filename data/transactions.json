@@ -1,0 +1,14 @@
+{
+  "C001": {"avg_monthly_volume_12m": 39500, "max_single_txn_12m": 45000, "countries_12m": ["US"], "prior_alerts_12m": 1, "prior_escalations_12m": 0},
+  "C002": {"avg_monthly_volume_12m": 5800, "max_single_txn_12m": 14000, "countries_12m": ["US", "MX"], "prior_alerts_12m": 1, "prior_escalations_12m": 0},
+  "C003": {"avg_monthly_volume_12m": 240000, "max_single_txn_12m": 62000, "countries_12m": ["US"], "prior_alerts_12m": 3, "prior_escalations_12m": 1},
+  "C004": {"avg_monthly_volume_12m": 470000, "max_single_txn_12m": 350000, "countries_12m": ["US", "CY", "EE", "TR"], "prior_alerts_12m": 4, "prior_escalations_12m": 1},
+  "C005": {"avg_monthly_volume_12m": 8700, "max_single_txn_12m": 12000, "countries_12m": ["US"], "prior_alerts_12m": 0, "prior_escalations_12m": 0},
+  "C006": {"avg_monthly_volume_12m": 29000, "max_single_txn_12m": 6000, "countries_12m": ["US"], "prior_alerts_12m": 2, "prior_escalations_12m": 0},
+  "C007": {"avg_monthly_volume_12m": 1150000, "max_single_txn_12m": 1300000, "countries_12m": ["US", "SG", "NL", "MX"], "prior_alerts_12m": 2, "prior_escalations_12m": 0},
+  "C008": {"avg_monthly_volume_12m": 3900, "max_single_txn_12m": 3500, "countries_12m": ["US"], "prior_alerts_12m": 1, "prior_escalations_12m": 0},
+  "C009": {"avg_monthly_volume_12m": 760000, "max_single_txn_12m": 900000, "countries_12m": ["US", "KY"], "prior_alerts_12m": 2, "prior_escalations_12m": 0},
+  "C010": {"avg_monthly_volume_12m": 6900, "max_single_txn_12m": 2600, "countries_12m": ["US", "LB"], "prior_alerts_12m": 3, "prior_escalations_12m": 0},
+  "C011": {"avg_monthly_volume_12m": 160000, "max_single_txn_12m": 95000, "countries_12m": ["US", "AE", "HK"], "prior_alerts_12m": 5, "prior_escalations_12m": 2},
+  "C012": {"avg_monthly_volume_12m": 4900, "max_single_txn_12m": 4800, "countries_12m": ["US"], "prior_alerts_12m": 0, "prior_escalations_12m": 0}
+}

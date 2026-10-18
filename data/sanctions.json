@@ -1,0 +1,9 @@
+{
+  "_note": "Synthetic watchlist for demonstration only. These entities are invented.",
+  "entries": [
+    {"name": "Volkov Shipping Group", "list": "SYNTH-SDN", "added": "2025-11-02"},
+    {"name": "Kestrel Maritime SA", "list": "SYNTH-SDN", "added": "2026-03-15"},
+    {"name": "Al-Nasr Exchange House", "list": "SYNTH-SDN", "added": "2024-07-21"},
+    {"name": "Ivan Drozdov Petrov", "list": "SYNTH-PEP", "added": "2025-01-09"}
+  ]
+}

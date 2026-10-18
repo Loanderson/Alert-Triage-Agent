@@ -1,0 +1,12 @@
+{
+  "_note": "Illustrative pilot targets for a fictional bank, not measured results.",
+  "alerts_per_month": 9000,
+  "in_scope_share": 0.64,
+  "baseline_handle_minutes": 22,
+  "pilot_handle_minutes": 13,
+  "analyst_loaded_cost_per_hour": 62,
+  "analyst_productive_hours_per_month": 160,
+  "model_cost_per_alert": 0.12,
+  "platform_cost_per_month": 4000,
+  "implementation_cost": 450000
+}

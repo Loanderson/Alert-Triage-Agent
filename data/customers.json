@@ -1,0 +1,14 @@
+{
+  "C001": {"name": "Harbor Bakery LLC", "segment": "small_business", "risk_rating": "low", "expected_monthly_volume": 40000, "occupation_or_industry": "Commercial bakery", "home_country": "US", "kyc_last_updated": "2026-08-01"},
+  "C002": {"name": "Daniel Ortiz", "segment": "retail", "risk_rating": "low", "expected_monthly_volume": 6000, "occupation_or_industry": "Software engineer", "home_country": "US", "kyc_last_updated": "2026-05-14"},
+  "C003": {"name": "Pinecrest Auto Sales", "segment": "small_business", "risk_rating": "medium", "expected_monthly_volume": 250000, "occupation_or_industry": "Used car dealer", "home_country": "US", "kyc_last_updated": "2026-03-22"},
+  "C004": {"name": "Volkov Trading Ltd", "segment": "commercial", "risk_rating": "high", "expected_monthly_volume": 500000, "occupation_or_industry": "Import / export, industrial goods", "home_country": "US", "kyc_last_updated": "2026-09-30"},
+  "C005": {"name": "Grace Liu", "segment": "retail", "risk_rating": "low", "expected_monthly_volume": 9000, "occupation_or_industry": "Physician", "home_country": "US", "kyc_last_updated": "2026-07-10"},
+  "C006": {"name": "Sunrise Laundromat", "segment": "small_business", "risk_rating": "medium", "expected_monthly_volume": 30000, "occupation_or_industry": "Laundromat (cash intensive)", "home_country": "US", "kyc_last_updated": "2026-06-02"},
+  "C007": {"name": "Northgate Logistics Inc", "segment": "commercial", "risk_rating": "low", "expected_monthly_volume": 1200000, "occupation_or_industry": "Freight forwarding", "home_country": "US", "kyc_last_updated": "2026-08-18"},
+  "C008": {"name": "Marcus Bell", "segment": "retail", "risk_rating": "medium", "expected_monthly_volume": 4000, "occupation_or_industry": "Independent contractor", "home_country": "US", "kyc_last_updated": "2026-02-11"},
+  "C009": {"name": "Coastal Properties LP", "segment": "commercial", "risk_rating": "medium", "expected_monthly_volume": 800000, "occupation_or_industry": "Real estate investment", "home_country": "US", "kyc_last_updated": "2026-04-27"},
+  "C010": {"name": "Amina Haddad", "segment": "retail", "risk_rating": "low", "expected_monthly_volume": 7000, "occupation_or_industry": "Teacher", "home_country": "US", "kyc_last_updated": "2026-01-19"},
+  "C011": {"name": "Redline Electronics", "segment": "small_business", "risk_rating": "high", "expected_monthly_volume": 150000, "occupation_or_industry": "Electronics wholesale", "home_country": "US", "kyc_last_updated": "2026-09-05"},
+  "C012": {"name": "Tomas Reyes", "segment": "retail", "risk_rating": "low", "expected_monthly_volume": 5000, "occupation_or_industry": "Nurse", "home_country": "US", "kyc_last_updated": "2026-06-30"}
+}

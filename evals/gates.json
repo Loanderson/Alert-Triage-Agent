@@ -1,0 +1,7 @@
+{
+  "escalation_recall": {"op": ">=", "value": 1.0},
+  "false_close_rate": {"op": "<=", "value": 0.0},
+  "accuracy": {"op": ">=", "value": 0.8},
+  "close_precision": {"op": ">=", "value": 0.9},
+  "evidence_grounding": {"op": ">=", "value": 1.0}
+}

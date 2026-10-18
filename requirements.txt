@@ -1,0 +1,2 @@
+# Only needed for --mode live. Mock mode, evals, ROI and tests use the standard library.
+anthropic>=0.40
